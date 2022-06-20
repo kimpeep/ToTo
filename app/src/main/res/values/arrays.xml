@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color">
+        <item>ToTo_white</item>
+        <item>ToTo_yellow</item>
+        <item>ToTo_amber</item>
+        <item>ToTo_orange</item>
+    </string-array>
+    <string-array name="color_value">
+        <item>#FFFFFF</item>
+        <item>#FFF9C4</item>
+        <item>#FFECB3</item>
+        <item>#FFE0B2</item>
+    </string-array>
+
+    <string-array name="notification">
+        <item>푸시 알림 허용</item>
+        <item>푸시 알림 거부</item>
+    </string-array>
+    <string-array name="notification_value">
+        <item>YES</item>
+        <item>NO</item>
+    </string-array>
+
+    <string-array name="theme">
+        <item>배찌</item>
+        <item>다이어리</item>
+    </string-array>
+
+    <string-array name="theme_value">
+        <item>bazzi</item>
+        <item>bohyun</item>
+        <item>diary</item>
+    </string-array>
+    <string-array name="night_mode">
+        <item>@string/night_mode_auto</item>
+        <item>@string/night_mode_on</item>
+        <item>@string/night_mode_off</item>
+    </string-array>
+    <string-array name="night_mode_value">
+        <item>@string/pref_night_auto</item>
+        <item>@string/pref_night_on</item>
+        <item>@string/pref_night_off</item>
+    </string-array>
+</resources>
